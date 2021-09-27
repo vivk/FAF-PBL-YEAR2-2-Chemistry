@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/vivk-UTM-FAF-PBL-YEAR2-2-Chemistry/pbl-chemistry-dsl.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/vivk-UTM-FAF-PBL-YEAR2-2-Chemistry/PBL_GUI.git
